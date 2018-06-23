@@ -1,0 +1,14 @@
+# Name: mwin
+# By: Loi Tran
+# LICENSE: MIT
+
+active_text_color=#CFD8DC
+inactive_text_color=#7F898E
+
+button_spacing=2
+button_offset=3  # space between close button and border-right when minimize
+maximized_offset=5  # space between close button and border-right when maximize
+
+title_full_width=true
+show_app_icon=true
+
