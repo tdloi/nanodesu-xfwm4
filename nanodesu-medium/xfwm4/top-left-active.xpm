@@ -6,7 +6,12 @@ static char * top_left_active_xpm[] = {
 " ",
 " ",
 " ",
-" ",
+" ",/* XPM */
+static char * bottom_active_xpm[] = {
+"1 1 2 1",
+" 	c None",
+".	c #444444",
+"."};
 " ",
 " ",
 " ",
