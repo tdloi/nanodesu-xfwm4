@@ -10,8 +10,5 @@ Download this repo and extract it, then place theme of your choice (nanodesu/med
 + `nanodesu-medium`: 36 x 24px
 + `nanodesu-large`: 42 x 28px
 
-## Custom themes
-Please follow [custom-themes](custom-theme.md) to change color and size.
-
 ## LICENSE
 [MIT LICENSE](LICENSE)
