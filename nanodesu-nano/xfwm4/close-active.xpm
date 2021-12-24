@@ -2,8 +2,8 @@
 static char * close_active_xpm[] = {
 "32 23 34 1",
 " 	c None",
-".	c #4B4F5A",
-"Z  c #30343F",
+".	c #4B4F5A s active_color_2",
+"Z  c #30343F s active_shadow_2",
 "+	c #535660",
 "@	c #A2A3A6",
 "#	c #5C5E64",
