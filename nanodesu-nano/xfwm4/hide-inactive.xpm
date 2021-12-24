@@ -1,8 +1,9 @@
 /* XPM */
 static char * hide_inactive_xpm[] = {
-"32 23 10 1",
+"32 23 11 1",
 " 	c None",
 ".	c #30343F",
+"Z  c #30343F",
 "+	c #31343F",
 "@	c #31353F",
 "#	c #3C3F48",
@@ -33,4 +34,4 @@ static char * hide_inactive_xpm[] = {
 "................................",
 "................................",
 "................................",
-"                                "};
+"ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ"};

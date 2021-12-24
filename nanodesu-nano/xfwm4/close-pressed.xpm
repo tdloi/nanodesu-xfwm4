@@ -1,8 +1,9 @@
 /* XPM */
 static char * close_pressed_xpm[] = {
-"32 23 36 1",
+"32 23 37 1",
 " 	c None",
 ".	c #F16B76",
+"Z  c #30343F",
 "+	c #F1707A",
 "@	c #F6B6B9",
 "#	c #F5A7AC",
@@ -59,4 +60,4 @@ static char * close_pressed_xpm[] = {
 "................................",
 "................................",
 "................................",
-"                                "};
+"ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ"};

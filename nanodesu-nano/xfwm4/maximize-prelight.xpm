@@ -1,8 +1,9 @@
 /* XPM */
 static char * maximize_prelight_xpm[] = {
-"32 23 11 1",
+"32 23 12 1",
 " 	c None",
 ".	c #4B4F5A",
+"Z  c #30343F",
 "+	c #4F535D",
 "@	c #8C8D92",
 "#	c #98999D",
@@ -34,4 +35,4 @@ static char * maximize_prelight_xpm[] = {
 "................................",
 "................................",
 "................................",
-"                                "};
+"ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ"};

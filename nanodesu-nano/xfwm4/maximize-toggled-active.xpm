@@ -1,8 +1,9 @@
 /* XPM */
 static char * maximize_toggled_active_xpm[] = {
-"32 23 42 1",
+"32 23 43 1",
 " 	c None",
 ".	c #30343F",
+"Z  c #30343F",
 "+	c #5B5D63",
 "@	c #909194",
 "#	c #919294",
@@ -65,4 +66,4 @@ static char * maximize_toggled_active_xpm[] = {
 "................................",
 "................................",
 "................................",
-"                                "};
+"ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ"};
