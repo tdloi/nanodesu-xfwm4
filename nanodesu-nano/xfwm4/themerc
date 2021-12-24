@@ -6,10 +6,10 @@ active_text_color=#CFD8DC
 inactive_text_color=#7F898E
 
 button_spacing=0
-button_offset=-1 # space between close button and border-right when minimize
-maximized_offset=0 # space between close button and border-right when maximize
+button_offset=0 # space between close button and border-right when restored
+maximized_offset=0 # space between close button and border-right when maximized
 title_horizontal_offset=0
-frame_border_top=0
+frame_border_top=1
 
 title_full_width=true
 show_app_icon=true
